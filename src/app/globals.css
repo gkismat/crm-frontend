@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #ff69b4; /* pink */
+    color: #ffffff;
+  }
+  
